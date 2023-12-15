@@ -8,5 +8,9 @@
 <body>
     <?php $prezzo = "45€" ?>
     <h1><?php echo "Il prezzo del biglietto è di $prezzo" ?></h1>
+    
+    
+    <?php $variabile = "ciao" ?>
+    <p><?php echo "testo ". $variabile ?></p>
 </body>
 </html>
